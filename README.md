@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I'm a passionate **Frontend & Backend Developer** with a strong focus on **React, Next.js, Node.js, and SQL**. I love building high-performance web applications and exploring new technologies.
 
-- 🔭 I’m currently working on **E-commerce projects**.
+- 🔭 I’m currently working on **E-commerce, selling products online**.
 - 🌱 I’m continuously learning **backend development with Node.js & MySQL**.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 💬 Ask me about **React, Node.js, SQL, and Tailwind CSS**.
